@@ -44,6 +44,7 @@ You can install the Mattermost Server using our ``.deb`` signed packages using t
   :backlinks: top
   :local:
   :depth: 1
+  :class: this-will-duplicate-information-and-it-is-still-useful-here
 
 .. note::
   

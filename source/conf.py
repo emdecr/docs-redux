@@ -71,7 +71,7 @@ html_theme_options = {
         "font-stack--monospace": "Fira Mono, Courier New, Courier, monospace",
     },
 }
-html_css_files = ["css/compass-icons.css"]
+html_css_files = ["css/compass-icons.css", "css/mytheme.css"]
 html_favicon = "_static/favicon.ico"
 html_extra_path = ["_static/robots.txt"]
 html_additional_pages = {
